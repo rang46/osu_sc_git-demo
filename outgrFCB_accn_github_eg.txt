@@ -1,0 +1,7 @@
+gi|18857869|emb|AJ430587.1| Caldothrix abyssi 16S rRNA gene, strain LF13T
+gi|444439393|ref|NR_074708.1| Gemmatimonas aurantiaca strain T-27 16S rRNA gene
+gi|42627337|emb|AJ496032.1| Fibrobacter succinogenes partial S85 16S rRNA gene, strain ATCC 19169
+WS3
+gb|AASE01000013.1|:23272-24766 Chlorobium ferrooxidans DSM 13031 ctg48, whole genome shotgun sequence
+gi|209963304|gb|FJ264782.1| Uncultured bacterium clone so4B24 16S ribosomal RNA gene, partial sequence
+gi|224996213|gb|FJ746114.1| Uncultured bacterium clone SPG12_343_353_B25 16S ribosomal RNA gene, partial sequence
